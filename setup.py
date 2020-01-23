@@ -12,7 +12,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='Christopher Baker, Matthew Bowman, Brady Wilkinson',
-    author_email='chriscrewbaker@gmail.com', 'bradywilky@gmail.com'
+    author_email='chriscrewbaker@gmail.com, bradywilky@gmail.com'
     license='LICENSE.txt',
     packages=['rfespark'],
     install_requires=['pyspark'],
